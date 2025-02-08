@@ -20,7 +20,7 @@
   <div class="section">
     <h2>📸 App Screenshots</h2>
     <p>Here are some screenshots of the app in action:</p>
-    <img src="../BMI_Calculator/BMICalculator ScreenShots/Screenshot 2025-02-08 234621.png" alt="BMI Calculator" class="screenshot">
+    <img src="../BMI_Calculator/BMICalculator ScreenShots/Screenshot 2025-02-08 234621.png-" alt="BMI Calculator" class="screenshot">
     <img src="../BMI_Calculator/BMICalculator ScreenShots/Screenshot 2025-02-08 234859.png alt="BMI Calculator" class="screenshot">
     <img src="../BMI_Calculator/BMICalculator ScreenShots/Screenshot 2025-02-08 234953.png" alt="BMI Calculator" class="screenshot">
     <img src="../BMI_Calculator/BMICalculator ScreenShots/Screenshot 2025-02-08 235040.png" alt="BMI Calculator" class="screenshot">
